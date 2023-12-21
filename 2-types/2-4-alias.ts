@@ -6,8 +6,8 @@
   let typeNum: Num = 5;
 
   type Student = {
-    name: string,
-    age: number,
+    name: string;
+    age: number;
   }
 
   const student: Student = {
